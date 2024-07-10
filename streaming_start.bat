@@ -1,5 +1,5 @@
 @echo off
-cd "C:\Users\jbayl\Music\H9K_to_OBS_mastering Project"
+cd "C:\Users\jbayl\Music\H9K_to_OBS\H9K_to_OBS_mastering Project"
 start "" "H9K_to_OBS_mastering.als"
 cd "C:\Program Files\Sonarworks\SoundID Reference\Systemwide"
 start "" "SoundID Reference.exe"
