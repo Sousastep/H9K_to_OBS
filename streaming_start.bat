@@ -7,4 +7,6 @@ cd "C:\Users\jbayl\Documents\Max 8\Projects\max_gamepad_xbox_input_display\gamep
 start "" "gamepad-input-display.maxproj"
 cd "C:\Program Files\obs-studio\bin\64bit"
 start "" "obs64.exe"
+cd "C:\Program Files (x86)\Iriun Webcam"
+start "" "IriunWebcam.exe"
 exit
